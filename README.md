@@ -1,1 +1,0 @@
-This is homework 2 - Python
